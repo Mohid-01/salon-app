@@ -100,9 +100,9 @@ WSGI_APPLICATION = 'afro_salon_backend.wsgi.application'
 DATABASES = {
     'default': {
        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-       'NAME': 'd2fleu0tvr3cv1',
-       'USER': 'u9v39fp6tkkujp',
-       'PASSWORD': 'p052c99a4909b7fe1506c6429ea81ea410f24fa4d60e06fc6446030d0c0277123',
+       'NAME': 'd89gk836s8j0fs',
+       'USER': 'ubllbk4du48v4p',
+       'PASSWORD': 'p64bef867e23a83633f2cadf3fa79ce5d48b02cf549dd99df04170663cd5a9e49',
        'HOST': 'clhtb6lu92mj2.cluster-czz5s0kz4scl.eu-west-1.rds.amazonaws.com',
        'PORT': '5432',
    }
